@@ -1,4 +1,4 @@
-# fridge-door-alarm
+# Fridge Door Alarm by river
 ## ALERT!! I have not tested this yet and have not programmed it. Use at your own risk. I will test when it is delivered.
 An Alarm that lets you know if your fridge is open.
 ## images
