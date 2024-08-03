@@ -6,7 +6,7 @@ An Alarm that lets you know if your fridge is open.
 ![alt text](https://github.com/3arthdvst/fridge-door-alarm/blob/main/Fridgeproject2.png)
 ## How do i make it?
 Project files are pre-built and can be manufactured immediately. Upload GERBER.zip to a PCB manufacturer like PCBway or JLCPCB, and either 3D print the body files or send them over to JLC3DP.
-BOM included.
+BOM included. If you can't find a match for the less important components, use something similar.
 You can either choose manufacturer assembly or assemble it yourself.
 Order the parts, and when they arrive, use them in their correct placement.
 I would watch a soldering tutorial if you're new.
